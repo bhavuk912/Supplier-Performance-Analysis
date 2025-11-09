@@ -32,7 +32,7 @@ Using **Python**, **SQL**, and **Power BI**, it assesses performance across cost
 
 The workflow integrates data ingestion, transformation, analysis, and visualization.
 
-![Project Workflow](assets/workflow.png)
+![Project Workflow](WhatsApp Image 2025-11-09 at 14.34.17_c7884ccb.jpg)
 
 1. **Data Extraction:** Retrieve supplier, purchase, and sales data from `inventory.db`.
 2. **Data Cleaning:** Handle missing values, validate quantities, and standardize supplier IDs.
@@ -166,23 +166,3 @@ The Power BI dashboard visualizes critical supplier KPIs for quick decision-maki
 * Identified opportunities for pricing renegotiation.
 * Revealed inefficiencies in freight and purchase practices.
 * Provided clear insights for procurement strategy optimization.
-
----
-
-### 👤 Author
-
-**Hritish Mahajan**
-*Data Analysis | Python | SQL | Power BI | Machine Learning*
-
-📧 **[hritishx@gmail.com](mailto:hritishx@gmail.com)**
-🔗 **[GitHub: hritishmahajan](https://github.com/hritishmahajan)**
-
----
-
-### ✅ Quick Summary (for portfolio header)
-
-**Supplier Performance Analysis** — a data analytics project built with Python, SQL, and Power BI to evaluate supplier efficiency, profitability, and reliability for smarter procurement decisions.
-
----
-
-Would you like me to make a **shorter GitHub description (1-line)** and **tags section** too — so it looks complete when viewed in your repo’s main page?
