@@ -148,7 +148,7 @@ Supplier_Performance_Analysis/
 The Power BI dashboard visualizes critical supplier KPIs for quick decision-making.
 
 ![Dashboard Overview](PowerBI1.png)
-![Vendor KPI Comparison](PowerBI2.png)
+![Vendor KPI Comparison](PowerBi2.png)
 
 #### Key Metrics Displayed:
 
