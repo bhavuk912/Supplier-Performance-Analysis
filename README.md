@@ -32,7 +32,7 @@ Using **Python**, **SQL**, and **Power BI**, it assesses performance across cost
 
 The workflow integrates data ingestion, transformation, analysis, and visualization.
 
-![Project Workflow](WhatsApp Image 2025-11-09 at 14.34.17_c7884ccb.jpg)
+![Project Workflow](workflow.jpg)
 
 1. **Data Extraction:** Retrieve supplier, purchase, and sales data from `inventory.db`.
 2. **Data Cleaning:** Handle missing values, validate quantities, and standardize supplier IDs.
@@ -147,8 +147,8 @@ Supplier_Performance_Analysis/
 
 The Power BI dashboard visualizes critical supplier KPIs for quick decision-making.
 
-![Dashboard Overview](assets/dashboard_1.png)
-![Vendor KPI Comparison](assets/dashboard_2.png)
+![Dashboard Overview](PowerBI1.png)
+![Vendor KPI Comparison](PowerBI2.png)
 
 #### Key Metrics Displayed:
 
